@@ -1,1 +1,1 @@
-# SpeedBedWar.cn.github
+# SpeedBedWar.github.io
